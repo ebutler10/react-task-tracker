@@ -1,19 +1,19 @@
 const tasks = [
     {
         id: 1,
-        text: "get railed",
+        text: "go to doc",
         day: "today",
         reminder: true,
     },
     {
         id: 2,
-        text: "get ze kitty licked",
+        text: "pick uo food",
         day: "today",
         reminder: true,
     },
     {
         id: 3,
-        text: "railed pt 2",
+        text: "christmas",
         day: "friday",
         reminder: true,
     }
